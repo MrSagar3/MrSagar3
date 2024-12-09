@@ -4,11 +4,12 @@
 <h1>Hi 👋, I'm Sagar Chaudhary</h1>
 <p>A passionate frontend developer from Nepal</p>
 
+<h1>Hi 👋, I'm Sagar Chaudhary</h1>
+<p>A passionate frontend developer from Nepal</p>
+
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <p style="margin: 0;">
     🌱 I’m currently learning <strong>ReactJS and MUI.</strong>
-    - 💬 Ask me about **React, Python, Javascript**
-    - 📫 How to reach me **sagarchaudhary9861@gmail.com**
   </p>
   <img
     src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"
@@ -16,6 +17,11 @@
     style="width: 150px; height: auto;"
   />
 </div>
+
+- 💬 Ask me about **React, Python, Javascript**
+
+- 📫 How to reach me **sagarchaudhary9861@gmail.com**
+
 
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
