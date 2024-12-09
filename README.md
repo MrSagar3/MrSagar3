@@ -1,5 +1,6 @@
 <h1>Hi 👋, I'm Sagar Chaudhary</h1>
 <p>A passionate frontend developer from Nepal</p>
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="coding-gif" style="display:flex;"/>
 - 🌱 I’m currently learning **ReactJS and MUI.**
 
 - 💬 Ask me about **React, Python, Javascript**
