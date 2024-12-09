@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Sagar Chaudhary</h1>
 <p>A passionate frontend developer from Nepal</p>
 
-- 🌱 I’m currently learning **ReactJS and MUI.**
+- 🌱 I’m currently learning **Web Development.**
 
 - 💬 Ask me about **React, Python, Javascript**
 
