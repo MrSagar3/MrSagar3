@@ -1,11 +1,6 @@
 <h1>Hi 👋, I'm Sagar Chaudhary</h1>
 <p>A passionate frontend developer from Nepal</p>
 
-<h1>Hi 👋, I'm Sagar Chaudhary</h1>
-<p>A passionate frontend developer from Nepal</p>
-
-<h1>Hi 👋, I'm Sagar Chaudhary</h1>
-<p>A passionate frontend developer from Nepal</p>
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <p style="margin: 0;">
